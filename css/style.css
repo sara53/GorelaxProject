@@ -864,7 +864,7 @@ section.about,.goals-section
     padding: 10px 10px;
 }
 }
-    
+
 @media (min-width:420px) and (max-width:750px){
     .info-corner,.a-b-border,.about_us_top_border,
     .about_us_top_border2{
@@ -951,4 +951,201 @@ section.about,.goals-section
         left:0;
     }
 }
+/*Reset*/
+@media (min-width:529px) and (max-width:1024px){
+    .gorealx h1.text{
+        left: 0;
+    }
+    .ContactContent{
+        left: 170px;
+    }
+}
+@media (min-width:529px) and (max-width:768px){
+    .ContactContent{
+        left: 120px;
+    }
+}
+@media (min-width:425px) and (max-width:529px){
+    .gorealx h1.text{
+        left:15px;
+    }
+    .vision-content p,.vision-content h1,
+    .right-section p, .p-info p,.right-section h1{
+        margin-right: 25px;
+    }
+    .a1-content{
+        margin-left: 17px;
+    }
+    .contactBottom{
+        display: none;
+    }
+    .ContactContent{
+        left:26px;
+        bottom: 580px;
+    }
+    .contact-center{
+        padding-left: 48px;
+    }
+   
+}
+@media (min-width:320px) and (max-width:529px){
+    .a-l-logo,.vision-img,
+    .g-r-section,.vision .top,
+    .m-y-borders,.m-b-borders,
+    .info-corner,.g-borders,.contact-right{
+        display: none;
+    }
+    .a-c-content .content h1{
+        width: 220px;
+    }
+    .a-c-content .content p{
+        margin-top: 20px;
+       font-size: 20px;
+    }
+    .borders .p-info,.right-section p,.vision-content p{
+        font-size: 20px;
+    }
+    .vision-content h1{
+        width: 200px;
+    }
+    .chairImg{
+        display: none;
+    }
+    .g-borders
+{
+    height: 150px;
+
+}
+section.about{
+    height: 460px;
+}
+.goals-section
+{
+    height: 400px;
+    overflow: hidden;
+}
+.vision-section{
+    height: 225px;
+    overflow: hidden;
+}
+.motivation-section{
+    height: 340px;
+}
+.goals-section{
+    height: 250px;
+    overflow: hidden;
+}
+.top-info{
+    height: 80px;
+}
+.gallery-section
+{
+    height: 2200px;
+}
+.aboutUs-section{
+    height: 540px;
+}
+.g1-img
+{
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.nav > li > a{
+    padding: 10px 10px;
+}
+.gorealx h1.text{
+    left:15px;
+    font-size: 45px;
+}
+.vision-content p,.vision-content h1,
+.right-section p, .p-info p,.right-section h1{
+    margin-right: 25px;
+}
+.a1-content{
+    margin-left: 17px;
+}
+.contactBottom{
+    display: none;
+}
+.ContactContent{
+    left:0px;
+    bottom: 580px;
+}
+.g-info{
+    padding: 15px;
+}
+.g-info h1{
+    width: 90%;
+}
+.g-info p{
+    font-size: 20px;
+}
+    .about_us_top_border,
+    .about_us_top_border2,.a-u-bottom{
+        display: none;
+    }
+    .a1-content, .a2-content, 
+    .a3-content{
+        padding: 5px;
+
+    }
+    .inner-content h3{
+        font-size: 12px;
+    }
+    .ContactContent{
+        width: 300px;
+    }
+    .innerContent{
+        width: 290px;
+    }
+    .inner2Content{
+        width: 277px;
+    }
+    .inner2Content img{
+        width: 240px;
+        height: 180px;
+    }
+}
+@media (min-width:320px) and (max-width:529px){
+    .gorealx h1.text {
+        left: 5px;
+        font-size: 35px;
+    }
+    .right-section h1,.head h1{
+        width: 220px;
+    }
+    .right-section p,.p-info p{
+        font-size: 15px;
+    }
+    .section-margin{
+        margin-bottom: 60px;
+    }
+    .goals-section{
+        height: 270px;
+    }
+    .a1-content{
+        margin-left: 10px;
+    }
+    .ContactContent {
+        width: 250px;
+    }
+    .innerContent {
+        width: 240px;
+    }
+    .inner2Content {
+        width: 228px;
+    }
+    .inner2Content img {
+        width: 200px;
+        height: 175px;
+    }
+    .inner2Content .first, .lastP2{
+        font-size: 18px;
+    }
+}
+
+
+
+/*Reset*/
 /*y-#F68F22   g-#96CD28  b-#225C6A*/
